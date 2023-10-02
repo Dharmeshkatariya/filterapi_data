@@ -191,6 +191,9 @@ class _HomeScreenState extends State<HomeScreen> {
               //                     horizontal: 10, vertical: 0),
               //                 decoration: BoxDecoration(
               //                   color: Colors.pink.shade50,
+              //
+              //
+              //
               //                   borderRadius: BorderRadius.circular(12),
               //                 ),
               //                 child: Text(nameData.name),
